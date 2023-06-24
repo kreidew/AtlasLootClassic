@@ -571,15 +571,15 @@ data["SiderealEssence"] = {
 				{ 16, 45877 }, -- The Boreal Guard
 				{ 17, 45887 }, -- Ice Layered Barrier
 				
-        { 19, 45868 }, -- Aesir's Edge
+        			{ 19, 45868 }, -- Aesir's Edge
 				{ 20, 46067 }, -- Hammer of Crushing Whispers
         
-        { 24, 45870 }, -- Magnetized Projectile Emitter
-        { 25, 45296 }, -- Twirling Blades
-        
-        { 27, 45294 }, -- Petrified Ivy Sprig
-        
-        { 29, 46033 }, -- Tortuerd Earth
+			        { 24, 45870 }, -- Magnetized Projectile Emitter
+			        { 25, 45296 }, -- Twirling Blades
+			        
+			        { 27, 45294 }, -- Petrified Ivy Sprig
+			        
+			        { 29, 46033 }, -- Tortuerd Earth
 				{ 30, 45886 }, -- Icecore Staff
 			},
 		},
@@ -587,21 +587,21 @@ data["SiderealEssence"] = {
 			name = ALIL["Armor"].." - "..ALIL["Cloth"],
 			[NORMAL_DIFF] = {
 				{ 1, 46068 }, -- Amice of Inconceivable Horror
-        { 2, 46045 }, -- Pulsar Gloves
-        { 3, 46034 }, -- Leggings of Profound Darkness
-        { 4, 46050 }, -- Sarlight Treads
+			        { 2, 46045 }, -- Pulsar Gloves
+			        { 3, 46034 }, -- Leggings of Profound Darkness
+			        { 4, 46050 }, -- Sarlight Treads
 			},
 		},
 		{
 			name = ALIL["Armor"].." - "..ALIL["Leather"],
 			[NORMAL_DIFF] = {
-        { 1, 45993 }, -- Mimiron's Flight Googles
-        { 2, 45869 }, -- Fluxing Energy Coils
-        { 3, 46043 }, -- Gloves of the Endless Dark
-				{ 4, 46095 }, -- Soul-Devouring Cinch
-        { 16, 45293 }, -- Handguards of Potent Cures
-        { 17, 45455 }, -- Belt of the Crystal Tree
-        { 18, 46049 }, -- Zodiac Leggings
+			        { 1, 45993 }, -- Mimiron's Flight Googles
+			        { 2, 45869 }, -- Fluxing Energy Coils
+			        { 3, 46043 }, -- Gloves of the Endless Dark
+							{ 4, 46095 }, -- Soul-Devouring Cinch
+			        { 16, 45293 }, -- Handguards of Potent Cures
+			        { 17, 45455 }, -- Belt of the Crystal Tree
+			        { 18, 46049 }, -- Zodiac Leggings
 			},
 		},
 		{
@@ -610,8 +610,8 @@ data["SiderealEssence"] = {
 				{ 1, 45300 }, -- Mantle of Fiery Vengeance
 				{ 2, 45989 }, -- Tempered Mercury Greaves
 				{ 16, 46044 }, -- Observer's Mantle
-        { 17, 45867 }, -- Breastplate of the Stoneshaper
-        { 18, 45943 }, -- Gloves of Whispering Winds
+			        { 17, 45867 }, -- Breastplate of the Stoneshaper
+			        { 18, 45943 }, -- Gloves of Whispering Winds
 				
 			},
 		},
@@ -621,8 +621,8 @@ data["SiderealEssence"] = {
 				{ 1, 46037 }, -- Shoulderplates of the Celestial Watch
 				{ 2, 45888 }, -- Bitter Cold Armguards
 				{ 3, 46041 }, -- Starfall Girdle
-        { 4, 45982 }, -- Fused Alloy Legplates
-        { 6, 45928 }, -- Gauntlets of the Thunder God
+			        { 4, 45982 }, -- Fused Alloy Legplates
+			        { 6, 45928 }, -- Gauntlets of the Thunder God
 				{ 16, 46039 }, -- Breastplate of the Timeless
 				{ 17, 45295 }, -- Gilded Steel Legplates
 				{ 18, 45988 }, -- Greaves of the Iron Army
@@ -638,23 +638,23 @@ data["SiderealEssence"] = {
 		{
 			name = ALIL["Finger"],
 			[NORMAL_DIFF] = {
-        { 1, 46048 }, -- Band of Lights
-        { 2, 45456 }, -- Loop of the Agile
-        { 4, 45871 }, -- Seal of Ulduar
-        { 16, 45297 }, -- Shimmering Seal
+			        { 1, 46048 }, -- Band of Lights
+			        { 2, 45456 }, -- Loop of the Agile
+			        { 4, 45871 }, -- Seal of Ulduar
+			        { 16, 45297 }, -- Shimmering Seal
 				{ 17, 46046 }, -- Nebula Band
 				{ 18, 46096 }, -- Signet of Soft Lament
-        { 19, 45946 }, -- Fire Orchid Signet
+        			{ 19, 45946 }, -- Fire Orchid Signet
 			},
 		},
 		{
 			name = ALIL["Neck"],
 			[NORMAL_DIFF] = {
-        { 1, 45945 }, -- Seed of Budding Carnage
-        { 3, 46040 }, -- Strength of the Heavens
-        { 5, 45447 }, -- Watchful Eye of Fate
-        { 6, 46047 }, -- Pendant of the Somber Witniss
-        { 7, 45933 }, -- Pendant of the Shallow Grave
+			        { 1, 45945 }, -- Seed of Budding Carnage
+			        { 3, 46040 }, -- Strength of the Heavens
+			        { 5, 45447 }, -- Watchful Eye of Fate
+			        { 6, 46047 }, -- Pendant of the Somber Witniss
+			        { 7, 45933 }, -- Pendant of the Shallow Grave
 			},
 		},
 		{
